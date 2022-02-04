@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+
+
+# bazel build directoryies
+/bazel-*
+
+# vscode dir
+/.vscode
+
+

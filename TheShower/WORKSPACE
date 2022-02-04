@@ -1,0 +1,12 @@
+workspace(name = "TheShower")
+
+
+local_repository(
+    name = "TimeShow",
+    path = "../TImeShow"
+)
+
+local_repository(
+    name = "HelloShow",
+    path = "../HelloShow"
+)
