@@ -4,5 +4,6 @@ cc_library(
     name = "TimeShow",
     srcs = ["TimeShow.cpp"],
     hdrs = ["TimeShow.h"],
+    copts = ["-ITimeShow"],
     visibility = ["//visibility:public"],
 )
