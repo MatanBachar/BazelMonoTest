@@ -1,5 +1,5 @@
-#include "HelloShow.h"
-#include "TimeShow.h"
+#include "HelloShow/HelloShow.h"
+#include "TimeShow/TimeShow.h"
 
 int main(int argc, char** argv) {
   std::string who = "world";
