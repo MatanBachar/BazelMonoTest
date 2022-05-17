@@ -6,4 +6,3 @@ cc_library(
     hdrs = ["HelloShow.h"],
     visibility = ["//visibility:public"]
 )
-
