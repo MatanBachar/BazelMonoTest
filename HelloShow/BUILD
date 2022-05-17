@@ -4,6 +4,5 @@ cc_library(
     name = "HelloShow",
     srcs = ["HelloShow.cpp"],
     hdrs = ["HelloShow.h"],
-    copts = ["-IHelloShow"],
-    visibility = ["//visibility:public"],
+    visibility = ["//visibility:public"]
 )
